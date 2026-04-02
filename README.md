@@ -1,9 +1,9 @@
-# Nama: Muhammad Hasan Ghani
-# NIM: 251011700638
+## Nama: Muhammad Hasan Ghani
+## NIM: 251011700638
+_____________________________
+## Tugas Python
 
-# Tugas Python
-
-## FizzBuzz
+### FizzBuzz
 Program menampilkan angka 1–100 dengan aturan FizzBuzz.
-## Konversi Hari
+### Konversi Hari
 Program mengubah hari menjadi tahun, bulan, dan hari.
