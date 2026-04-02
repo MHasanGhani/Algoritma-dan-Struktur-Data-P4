@@ -1,6 +1,3 @@
-# Nama: Muhammad Hasan Ghani
-# NIM: 251011700638
-
 start = 1
 end = 100
 
