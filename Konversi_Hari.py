@@ -1,6 +1,3 @@
-# Nama: Muhammad Hasan Ghani
-# NIM: 251011700638
-
 hari = int(input("Masukkan jumlah hari: "))
 
 tahun = hari // 365
